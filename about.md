@@ -27,6 +27,6 @@ Version control:  Git
 
 ### Contact me
 
-gawade.neha@csu.fullerton.edu
+MAIL @ gawade.neha@csu.fullerton.edu
 
-+1 9497019680
+Mobile: +1 9497019680
