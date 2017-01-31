@@ -1,8 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Blogs coming soon!
 ---
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
